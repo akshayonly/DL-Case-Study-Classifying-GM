@@ -33,7 +33,7 @@
 6. Secondary data analysis
 
    1. Visualizing high dimensional text features by t-SNE
-   2. Visualizing Gene & Variation features by SVD
+   2. Visualizing Gene & Variation features by t-SNE
 
 7. DL model building
 
