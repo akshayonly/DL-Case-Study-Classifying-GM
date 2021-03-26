@@ -15,20 +15,7 @@
 5. Data featurization
 
    1. Text Feature
-
-      - Traditional NLP: tf-IDF vectors
-
-      - Using pre-trained Sentence2Vector Deep learning model
-        - Downloading BioSent2Vec
-        - Loading BioSent2Vec
-        - Applying BioSent2Vec on TEXT
    2. Categorical Features
-      1. Response encoding
-         1. Gene
-         2. Variation
-      2. One-hot encoding 
-         1. Gene
-         2. Variation
 
 6. Secondary data analysis
 
