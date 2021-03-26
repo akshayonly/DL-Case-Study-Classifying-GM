@@ -2,11 +2,7 @@
 
 1. Packages
 
-   1. Downloading Sent2Vec and Installing
-
-2. Data gathering
-
-   1. Downloading from Kaggle
+2. Downloading data
 
 3. Data Preprocessing
 
