@@ -35,6 +35,6 @@
    1. Visualizing high dimensional text features by t-SNE
    2. Visualizing Gene & Variation features by t-SNE
 
-7. DL model building
+7. ML model building
 
 8. Conclusion
