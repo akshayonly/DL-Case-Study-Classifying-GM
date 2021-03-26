@@ -35,17 +35,6 @@
    1. Visualizing high dimensional text features by t-SNE
    2. Visualizing Gene & Variation features by SVD
 
-7. ML model building
-
-   1. Dummy model (Baseline)
-   2. Linear models
-      1. SVM 
-         1. RBF Kernel
-         2. Linear kernel
-      2. Logistic Regression (SGD)
-   3. Tree base models
-      1. Decision tree
-      2. Random forest
-      3. XGBoost
+7. DL model building
 
 8. Conclusion
