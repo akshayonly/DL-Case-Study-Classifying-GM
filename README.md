@@ -1,4 +1,4 @@
-# Classifying Genetic Mutation 
+# Classifying Genetic mutation from high-dimensional clinical features
 
 1. Packages
 
